@@ -1,2 +1,4 @@
 # Reference-Scraping-from-Wikipedia
-Reference Scraper automatically collects all the reference information from Wikipedia pages
+Reference Scraper automatically collects all the reference information from Wikipedia pages using BeautifulSoup and Python
+
+
